@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nnaemeka Ijeoma 
-- 🌱 Excel, SQL, PYTHON
+- 🌱 Data science, Data Analytics, Data Enginering
 - 📫 You can reach me via my email: nnaemekapijeoma@gmail.com or my phone +2348161588841
 
 <!---
